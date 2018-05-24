@@ -1,0 +1,101 @@
+html, body {
+  height:100%;
+  background-color: #f4f4f4;
+}
+.sideNav_worker {
+  height: 100%;
+}
+
+.content_workerLanding {
+  margin-left: 10%;
+  height: 100%;
+}
+
+.row {
+  height: 100%;
+}
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #373a47;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #212121;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+  padding: 0.8em;
+}
+
+.bm-item-list a {
+  font-size: 30px;
+  color: white;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+table img {
+  height: 20px;
+  width: 20px;
+}
+
+table{
+
+  background-color: white;
+}
+
+.button_worker_invalidate {
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.button_worker_validate {
+  margin-bottom: 20px;
+}
+
+.worker_main_header {
+  margin-top: 60px;
+  font-weight: bold;
+}
+.container_worker_main {
+  background-color: white;
+}
+
+.container_worker_main h4 {
+  margin-top: 50px;
+  font-weight: bold;
+}

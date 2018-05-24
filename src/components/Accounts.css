@@ -1,0 +1,15 @@
+.button_worker_listaccounts {
+  background-color: #3a50ff;
+  color: white;
+  font-size: 20px;
+  width: 30%;
+  border-radius: 50px;
+  box-shadow: 0 5px 5px #888888;
+  font-weight: bold;
+}
+
+.button_worker_listaccounts:hover {
+  color: white;
+  background-color: #6e53f4;
+  border-color:#6e53f4;
+}

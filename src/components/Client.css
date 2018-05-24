@@ -1,0 +1,98 @@
+html, body {
+  height:100%;
+   }
+
+.container {
+  height: 100%;
+}
+
+.buttonForm_captureimg {
+  background-color: orange;
+  color: white;
+  font-size: 20px;
+  width: 100%;
+  border-radius: 50px;
+  box-shadow: 0 5px 5px #888888;
+  font-weight: bold;
+}
+
+video {
+  margin-left: 20%;
+  height: 200px;
+  weight: 200px;
+  margin-bottom: 10px;
+}
+
+.buttonForm_submit {
+  margin-top: 50px;
+  background-color: #3a50ff;
+  color: white;
+  font-size: 20px;
+  width: 100%;
+  border-radius: 50px;
+  box-shadow: 0 5px 5px #888888;
+  font-weight: bold;
+}
+
+.buttonForm_submit:hover {
+  color: white;
+  background-color: #6e53f4;
+  border-color:#6e53f4;
+}
+
+.back_button {
+  margin-top: 20px;
+  background-color: transparent;
+  color: #8266ff;
+  font-size: 20px;
+  width: 100%;
+  border-radius: 50px;
+  border-color:#8266ff;
+  font-weight: bold;
+}
+
+.back_button:hover {
+  color: #8266ff;
+  background-color: white;
+}
+
+.form_creditcard {
+  margin-top: 0;
+
+}
+
+.form-control {
+  height: 50px;
+  border-width:2px;
+  border-style:solid;
+  border-color: #3a50ff;
+  font-weight: bold;
+  font-size: 20px;
+  color: #2a61ba;
+}
+
+.form-control::-moz-placeholder {
+    color: #2a61ba;
+    opacity: 0.5;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.form-group label {
+  font-weight: bold;
+  font-size: 18px;
+  color: #2a61ba;
+}
+
+#formControlsFile input {
+
+}
+
+.modal-body h2 {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.modal-body {
+    background-color: #f4f4f4;
+}

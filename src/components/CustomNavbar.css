@@ -1,0 +1,28 @@
+.navbar {
+   background-color: transparent !important;
+   background: transparent !important;
+   border-color: transparent !important;
+   border: none !important;
+}
+
+.navbar-default {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+  }
+
+.navbar a:hover {
+    color: white !important;
+    background-color: #2a61ba  !important;
+}
+
+.navbar a {
+  color: white !important;
+  font-weight: bold;;
+  font-size: 30px;
+}
+
+.navbar ul{
+  background-color: #1b41b5 !important;
+  color: white !important;
+
+}

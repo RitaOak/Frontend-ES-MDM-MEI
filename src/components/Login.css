@@ -1,0 +1,48 @@
+html{
+    /* This image will be displayed fullscreen */
+    background-color: white;
+
+    /* Ensure the html element always takes up the full height of the browser window */
+    min-height:100%;
+
+    /* The Magic */
+}
+
+body{
+    /* Workaround for some mobile browsers */
+    min-height:100%;
+}
+
+.login_button {
+  margin-top: 50px;
+  background-color: #3a50ff;
+  color: white;
+  font-size: 20px;
+  width: 100%;
+  border-radius: 50px;
+  box-shadow: 0 5px 5px #888888;
+  font-weight: bold;
+}
+
+.login_button:hover {
+  color: white;
+  background-color: #6e53f4;
+  border-color:#6e53f4;
+}
+
+.back_buttonLogin {
+  margin-top: 20px;
+  background-color: transparent;
+  color: #8266ff;
+  font-size: 20px;
+  width: 100%;
+  border-radius: 50px;
+  border-color:#8266ff;
+  font-weight: bold;
+}
+
+.back_buttonLogin:hover {
+  color: #8266ff;
+  background-color: white;
+
+}
